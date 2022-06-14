@@ -1,4 +1,4 @@
-# mDA-time-course-scRAN-seq
+# mDA-time-course-scRNA-seq
 This is  analysis pipeline for time course scRNA-seq data of mesencephalic dopaminergic neuron differentiation in vitro.
 Related manuscript is 'Human midbrain dopaminergic neuronal differentiation markers predict cell therapy outcome in a Parkinson’s disease model' which is currently under revision.
 
